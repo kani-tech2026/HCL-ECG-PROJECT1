@@ -1,4 +1,4 @@
-# ❤️ HCL ECG Signal Classification Project
+#  HCL ECG Signal Classification Project
 
 ## 📌 Introduction
 The HCL ECG Signal Classification Project is a Deep Learning-based healthcare application designed to analyze Electrocardiogram (ECG) signals and classify cardiac conditions accurately. The system helps identify abnormal heart rhythms and supports early diagnosis of cardiovascular diseases.
