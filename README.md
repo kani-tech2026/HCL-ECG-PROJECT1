@@ -58,10 +58,3 @@ The model classifies ECG signals into different categories and assists in identi
 - Advanced Deep Learning Architectures
 - IoT-Based Healthcare Monitoring
 
----
-
-## 👩‍💻 Author
-**Kanimozhi K**
-
-HCL Internship Project – ECG Signal Classification Using Deep Learning# HCL-ECG-PROJECT1
-ECG Signal Classification Project using Deep Learning. It analyzes ECG data to detect patterns in heart signals.
